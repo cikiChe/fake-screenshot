@@ -1,0 +1,26 @@
+{
+    "zh": {
+      "input_content": "世界上没有什么事是一顿烧烤不能解决的\n如果有\n那就两顿",
+      "h1_title_descption" : "字幕截图生成器",
+      "h2_descption" : "完全免费、不会收集用户隐私",
+      "people_descption" : "选择人物",
+      "uplod_local_people_descption" : "上传本地人物图",
+      "people_speak_descption" : "台词不要太长(每行为一句)",
+      "save_img_descption" :"保存图片",
+      "change_language_descption" :"选择语言",
+      "font_size_descption":"字体",
+      "preview_descption":"即时预览"
+    },
+    "en": {
+      "input_content": "There's nothing a good barbecue can't solve.\nIf there is,\nThen two barbecues.",
+      "h1_title_descption" : "Subtitle Screenshot Generator",
+      "h2_descption" : "free and does not collect your personal information",
+      "people_descption" : "choose people",
+      "uplod_local_people_descption" : "upload img",
+      "people_speak_descption" : "Keep the lines short( One sentence per line ).",
+      "save_img_descption" :"save img",
+      "change_language_descption" :"choose language",
+      "font_size_descption":"font size",
+      "preview_descption":"Preview"
+    }
+  }
